@@ -14,9 +14,13 @@ header {
       
 }
 
+.menu {
+    margin-top: -15px;
+    margin-top: -15.5%;
+}
 
 .logo {
-      line-height: 150px;
+      margin-top: -15.9%;
       padding: 0px 950px;
       position:absolute;
       margin: fixed;
@@ -31,7 +35,7 @@ nav {
       transition: all 0.35 ease;
       position: fixed;
       width: 100%;
-      line-height: 60x;
+      line-height: 60px;
       letter-spacing: 2px;
 }
  
